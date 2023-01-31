@@ -9,7 +9,7 @@ tags:
 photos:
 - /img/profile.png
 ---
-![](/assets/computer.jpg) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam felis nibh, condimentum et porttitor sed, lacinia sit amet velit. Phasellus feugiat tortor id libero egestas mattis. Cras viverra placerat lacinia. Mauris tincidunt eros quis tempor porta.<!-- more --> Integer vehicula sed arcu eu fermentum. Nullam quis pulvinar odio. Pellentesque finibus tempor erat sagittis molestie.
+![](/assets/computer.jpg) oerjgerjgergjem felis nibh, condimentum et porttitor sed, lacinia sit amet velit. Phasellus feugiat tortor id libero egestas mattis. Cras viverra placerat lacinia. Mauris tincidunt eros quis tempor porta.<!-- more --> Integer vehicula sed arcu eu fermentum. Nullam quis pulvinar odio. Pellentesque finibus tempor erat sagittis molestie.
 
 Donec ultrices est non fringilla viverra. Vestibulum tincidunt magna vitae purus dignissim dapibus. Sed volutpat est nec eros consequat, vitae vehicula sem aliquam. Aenean sapien magna, aliquam vitae pellentesque ac, dapibus vitae ipsum. Pellentesque commodo, sem nec facilisis mollis, nisi neque dapibus eros, ac fermentum dui urna ac dolor. Integer id dui a sem consectetur tempor quis eget enim. Cras semper magna in lectus molestie cursus. Aenean convallis purus et lorem interdum varius. Nullam urna orci, luctus bibendum eleifend ut, imperdiet id lacus. Quisque rhoncus, purus malesuada tempor condimentum, tellus augue blandit nulla, sit amet varius tortor libero id massa.
 
