@@ -1,5 +1,5 @@
 ---
-title: Static Generator Is the Solution
+title: Cialone's Work
 date: 2017-07-12
 author: Author
 category: blog

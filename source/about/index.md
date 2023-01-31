@@ -19,13 +19,15 @@ date: 2017-02-19 15:40:14
 			<div class="col-md-6">
 				<h2>Nice to meet you, I'm John Doe</h2>
 				<h4>A web designer living in Toronto, Canada</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam felis nibh, condimentum et porttitor sed, lacinia sit amet velit. Phasellus feugiat tortor id libero egestas mattis. Cras viverra placerat lacinia. Mauris tincidunt eros quis tempor porta. Integer vehicula sed arcu eu fermentum. Nullam quis pulvinar odio. Pellentesque finibus tempor erat sagittis molestie. 
+				<p>Hello World! My name is Christopher Cialone and  I am a Full-Stack Web Developer. I am currently acquiring additional programming skills with Justice Through Code at Columbia Business School. As a developer and consultant, I am interacting with companies and consumers identifying problems while onboarding and educating users on the appropriate software solutions. 
 				</p>
-				<p>Donec ultrices est non fringilla viverra. Vestibulum tincidunt magna vitae purus dignissim dapibus. Sed volutpat est nec eros consequat, vitae vehicula sem aliquam. Aenean sapien magna, aliquam vitae pellentesque ac, dapibus vitae ipsum. Pellentesque commodo, sem nec facilisis mollis, nisi neque dapibus eros, ac fermentum dui urna ac dolor. Integer id dui a sem consectetur tempor quis eget enim. Cras semper magna in lectus molestie cursus. Aenean convallis purus et lorem interdum varius. Nullam urna orci, luctus bibendum eleifend ut, imperdiet id lacus. Quisque rhoncus, purus malesuada tempor condimentum, tellus augue blandit nulla, sit amet varius tortor libero id massa. 
+				<p> I am passionate about incorporating NFC technology and leveraging the immutability of blockchain to give more clarity and transparency to everyday processes instantaneously. Outside of programming I enjoy competitive sports, learning new topics, coffee and I still make time to read The Count of Monte Cristo and The Three Musketeers at least once a year.
 				</p>
 			</div>
 			<div class="col-md-6">
-				<img class="img-responsive about" src="/img/photographer.jpg" alt="" />
+				<img src="parkPainting.jpg" alt="Image">
+
+				
 			</div>
 		</div>
 	</section>

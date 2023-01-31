@@ -1,5 +1,5 @@
 ---
-title:  Responsive Hexo Theme
+title:  Contact Me
 date: 2017-06-12
 author: Author
 category: blog

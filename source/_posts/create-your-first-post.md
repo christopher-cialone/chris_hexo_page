@@ -1,5 +1,5 @@
 ---
-title: Create Your First Post
+title: About Me
 date: 2017-09-12
 author: Author
 category: blog
